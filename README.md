@@ -25,13 +25,7 @@ I am a Frontend Developer with a passion for building web applications and learn
 
 Ini adalah proyek sederhana!, Teknologi yang digunakan termasuk JavaScript, dan Tailwind CSS.
 
-![Screenshot Proyek](https://example.com/path-to-your-screenshot-image.png)
-
-
-### [Another Cool Project](https://github.com/yourusername/cool-project)
-A brief description of another cool project. Highlight its purpose and main features.
-
-![Project Screenshot](https://via.placeholder.com/600x300)
+![Screenshot Proyek](https://imgur.com/a/Qok17AZ)
 
 ## GitHub Stats
 
