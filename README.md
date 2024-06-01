@@ -12,6 +12,12 @@ I am a Frontend Developer with a passion for building web applications and learn
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love programming
 
+## Technologies & Tools
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Tailwind CSS](https://tailwindcss.com/)
+
 ## Projects
 
 ### [Awesome Project](https://github.com/yourusername/awesome-project)
