@@ -25,7 +25,7 @@ I am a Frontend Developer with a passion for building web applications and learn
 
 Ini adalah proyek sederhana!, Teknologi yang digunakan termasuk JavaScript, dan Tailwind CSS.
 
-![Screenshot Proyek](https://imgur.com/TDZZb2H)
+![Screenshot Proyek](https://i.imgur.com/TDZZb2H.png)
 
 ## Connect with Me
 
