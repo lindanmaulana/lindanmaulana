@@ -25,17 +25,7 @@ I am a Frontend Developer with a passion for building web applications and learn
 
 Ini adalah proyek sederhana!, Teknologi yang digunakan termasuk JavaScript, dan Tailwind CSS.
 
-![Screenshot Proyek](https://imgur.com/a/Qok17AZ)
-
-## GitHub Stats
-
-![John Doe's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
-## Contributions
-
-- Contributor to [Open Source Project](https://github.com/opensource/project)
-- Member of [Developer Community](https://developer.community)
-- Speaker at [Tech Conference 2023](https://techconference.com)
+![Screenshot Proyek](https://imgur.com/TDZZb2H)
 
 ## Connect with Me
 
