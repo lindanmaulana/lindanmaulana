@@ -40,6 +40,12 @@ Ini adalah proyek sederhana!, Teknologi yang digunakan termasuk JavaScript, dan 
 
 ![Screenshot Proyek](https://i.imgur.com/uOq7YL8.png)
 
+### [Awesome Project](https://web-design-cofference.vercel.app/)
+
+Ini adalah proyek sederhana!, Teknologi yang digunakan termasuk reactJs, redux, dan Tailwind CSS.
+
+![Screenshot Proyek](https://i.imgur.com/eq9hEW9.png)
+
 ## Connect with Me
 
 [![LinkedIn](www.linkedin.com/in/lindan-maulana-ab86aa300
