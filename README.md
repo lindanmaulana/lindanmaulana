@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi there, I'm Lindan Maulana 👋
 
-<!--
-**lindanmaulana/lindanmaulana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I am a Frontend Developer with a passion for building web applications and learning new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on [Awesome Project](https://github.com/yourusername/awesome-project)
+- 🌱 I’m currently learning React
+- 👯 I’m looking to collaborate on open source projects related to web development
+- 💬 Ask me about JavaScript
+- 📫 How to reach me: [john.doe@example.com](mailto:lindanmaulana13@gmail.com)
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I love programming
+
+## Projects
+
+### [Awesome Project](https://github.com/yourusername/awesome-project)
+A brief description of your project. Explain what it does, the technologies used, and any notable features.
+
+![Project Screenshot](https://via.placeholder.com/600x300)
+
+### [Another Cool Project](https://github.com/yourusername/cool-project)
+A brief description of another cool project. Highlight its purpose and main features.
+
+![Project Screenshot](https://via.placeholder.com/600x300)
+
+## GitHub Stats
+
+![John Doe's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+## Contributions
+
+- Contributor to [Open Source Project](https://github.com/opensource/project)
+- Member of [Developer Community](https://developer.community)
+- Speaker at [Tech Conference 2023](https://techconference.com)
+
+## Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=li
