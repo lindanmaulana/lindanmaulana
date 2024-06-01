@@ -21,7 +21,7 @@ I am a Frontend Developer with a passion for building web applications and learn
 
 ## Projects
 
-### [Awesome Project](https://github.com/yourusername/awesome-project)
+### [Awesome Project](dnksite-lindanids-projects.vercel.app)
 A brief description of your project. Explain what it does, the technologies used, and any notable features.
 
 ![Project Screenshot](https://via.placeholder.com/600x300)
