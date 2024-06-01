@@ -34,6 +34,12 @@ Ini adalah proyek sederhana!, Teknologi yang digunakan termasuk JavaScript, dan 
 
 ![Screenshot Proyek](https://i.imgur.com/TDZZb2H.png)
 
+### [Awesome Project](https://linm-store.vercel.app/)
+
+Ini adalah proyek sederhana!, Teknologi yang digunakan termasuk JavaScript, dan Tailwind CSS.
+
+![Screenshot Proyek](https://i.imgur.com/uOq7YL8.png)
+
 ## Connect with Me
 
 [![LinkedIn](www.linkedin.com/in/lindan-maulana-ab86aa300
