@@ -8,7 +8,7 @@ I am a Frontend Developer with a passion for building web applications and learn
 - 🌱 I’m currently learning React
 - 👯 I’m looking to collaborate on open source projects related to web development
 - 💬 Ask me about JavaScript
-- 📫 How to reach me: [lindanmaulana@gmail.com](mailto:lindanmaulana13@gmail.com)
+- 📫 How to reach me: [lindanmaulana13@gmail.com](mailto:lindanmaulana13@gmail.com)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love programming
 
