@@ -21,10 +21,12 @@ I am a Frontend Developer with a passion for building web applications and learn
 
 ## Projects
 
-### [Awesome Project](dnksite-lindanids-projects.vercel.app)
-A brief description of your project. Explain what it does, the technologies used, and any notable features.
+### [Awesome Project](https://dnksite-lindanids-projects.vercel.app/)
 
-![Project Screenshot](https://via.placeholder.com/600x300)
+Ini adalah proyek sederhana!, Teknologi yang digunakan termasuk JavaScript, dan Tailwind CSS.
+
+![Screenshot Proyek](https://example.com/path-to-your-screenshot-image.png)
+
 
 ### [Another Cool Project](https://github.com/yourusername/cool-project)
 A brief description of another cool project. Highlight its purpose and main features.
