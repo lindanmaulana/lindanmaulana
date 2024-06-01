@@ -36,4 +36,4 @@ A brief description of another cool project. Highlight its purpose and main feat
 
 ## Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=li
+[![LinkedIn](www.linkedin.com/in/lindan-maulana-ab86aa300
