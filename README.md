@@ -15,9 +15,15 @@ I am a Frontend Developer with a passion for building web applications and learn
 
 ## Technologies & Tools
 
+![HTML](https://img.shields.io/badge/-HTML-black?style=flat-square&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-black?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-black?style=flat-square&logo=tailwind-css)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=redux)
+![AOS.js](https://img.shields.io/badge/-AOS.js-black?style=flat-square&logo=javascript)
+
 
 
 ## Projects
