@@ -48,7 +48,8 @@ Ini adalah proyek sederhana!, Teknologi yang digunakan termasuk reactJs, redux, 
 
 ### [VisaEasyServices](https://visa-easy-services.vercel.app/)
 
-Slicing ui dengan teknologi reactJs, tailwindCss
+Slicing ui dengan teknologi reactJs, tailwindCss.
+
 ![Screenshot Proyek](https://i.imgur.com/cS4Vb0D.png)
 
 
