@@ -5,11 +5,11 @@ I am a dedicated second semester student and have an interest in web development
 
 I am a Frontend Developer with a passion for building web applications and learning new technologies.
 
-- 🔭 I’m currently working on [Awesome Project](https://github.com/yourusername/awesome-project)
+- 🔭 I’m currently working on [Awesome Project](https://lindan-maulana-dev.vercel.app/)
 - 🌱 I’m currently learning React
 - 👯 I’m looking to collaborate on open source projects related to web development
 - 💬 Ask me about JavaScript
-- 📫 How to reach me: [lindanmaulana13@gmail.com](mailto:lindanmaulana13@gmail.com)
+- 📫 How to reach me: [lindanmaulana13@gmail.com](mailto:linmidofficial@gmail.com)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love programming
 
