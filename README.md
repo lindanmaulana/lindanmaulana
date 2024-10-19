@@ -1,7 +1,7 @@
 # Hi there, I'm Lindan Maulana 👋
 
 ## About Me
-I am a dedicated second semester student and have an interest in web development, especially in the field of front-end design. My journey in the world of web development has been an interesting learning experience. I am committed to honing my skills and becoming a proficient front-end developer. With every line of code, I strive to create a website that is visually appealing and user-friendly and leaves a lasting impression. I'm excited to continue my journey, exploring new technologies, and bringing creative ideas to life through the art of front-end development.
+I am a dedicated third semester student and have an interest in web development, especially in the field of front-end design. My journey in the world of web development has been an interesting learning experience. I am committed to honing my skills and becoming a proficient front-end developer. With every line of code, I strive to create a website that is visually appealing and user-friendly and leaves a lasting impression. I'm excited to continue my journey, exploring new technologies, and bringing creative ideas to life through the art of front-end development.
 
 I am a Frontend Developer with a passion for building web applications and learning new technologies.
 
@@ -9,7 +9,7 @@ I am a Frontend Developer with a passion for building web applications and learn
 - 🌱 I’m currently learning React
 - 👯 I’m looking to collaborate on open source projects related to web development
 - 💬 Ask me about JavaScript
-- 📫 How to reach me: [lindanmaulana13@gmail.com](mailto:linmidofficial@gmail.com)
+- 📫 How to reach me: [linmidofficial@gmail.com](mailto:linmidofficial@gmail.com)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love programming
 
